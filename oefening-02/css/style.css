@@ -6,7 +6,7 @@ aside {
   background-color: white;
   box-shadow: 3px 4px 20px 0px gray;
 
-  /* positioneer dit element in de rechterbenedenhoek */
+  /* positioneer dit element in de rechterbenedenhoek met position: relative */
 }
 
 /* General Styles */
